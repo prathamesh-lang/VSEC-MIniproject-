@@ -1,5 +1,3 @@
-             # VSEC-MIniproject-
-
 # 🌙 Sleep Patterns & Screen Time Analysis Using Python
 
 <p align="center">
